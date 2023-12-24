@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 📝 I regularly write articles on [kir4che.com](kir4che.com)
+- 📝 I regularly write articles on [kir4che.com](https://kir4che.com/)
 
 - 📄 Know about my [resume](https://www.canva.com/design/DAF3VWAwquY/DxaMxOdlyHPFBN8yJi7E6w/view?utm_content=DAF3VWAwquY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
