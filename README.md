@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Molly Su (kir4che)</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kir4che&label=Profile%20views&color=0e75b6&style=flat" alt="kir4che" /> </p>
+
+- 💬 Ask me about **React.js!**
 
 - 🌱 I’m currently learning **Spring Boot**
 
 - 📝 I regularly write articles on [kir4che.com](kir4che.com)
-
-- 💬 Ask me about **React.js!**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAF3VWAwquY/DxaMxOdlyHPFBN8yJi7E6w/view?utm_content=DAF3VWAwquY&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF3VWAwquY/DxaMxOdlyHPFBN8yJi7E6w/view?utm_content=DAF3VWAwquY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
