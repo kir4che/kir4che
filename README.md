@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on [kir4che.com](kir4che.com)
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAF3VWAwquY/DxaMxOdlyHPFBN8yJi7E6w/view?utm_content=DAF3VWAwquY&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF3VWAwquY/DxaMxOdlyHPFBN8yJi7E6w/view?utm_content=DAF3VWAwquY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📄 Know about my [resume](https://www.canva.com/design/DAF3VWAwquY/DxaMxOdlyHPFBN8yJi7E6w/view?utm_content=DAF3VWAwquY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
