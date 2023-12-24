@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm kir4che</h1>
+<h1 align="center">Hi 👋, I'm Molly Su (kir4che)</h1>
 <h3 align="center">I'm a senior student studying information and financial management. I'm passionate about front-end development because it allows me to express my creativity and see results quickly. I enjoy taking on complex and challenging projects and am eager to contribute my skills and learn from real-world experience to enhance my proficiency in front-end development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kir4che&label=Profile%20views&color=0e75b6&style=flat" alt="kir4che" /> </p>
