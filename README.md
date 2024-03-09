@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Molly Su (kir4che)</h1>
+<h1 align="center">I'm Molly Su (kir4che) 🦫</h1>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kir4che&show_icons=true&locale=en&layout=compact" alt="kir4che" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kir4che&show_icons=true&locale=en" alt="kir4che" />
