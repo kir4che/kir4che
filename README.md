@@ -1,7 +1,7 @@
 ### <samp>&gt; Hi, I'm <a href="https://kir4che.github.io/" target="_blank">Molly Su (kir4che) </a>🦫</samp>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kir4che/)
-[![Website Badge](https://img.shields.io/badge/Website-FF9CB6?style=flat-square&logo=githubpages&logoColor=white)](https://kir4che.github.io/)
+[![Website Badge](https://img.shields.io/badge/-Website-FF9CB6?style=flat-square&logo=githubpages&logoColor=white)](https://kir4che.github.io/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kir4che/)
 [![CakeResume Badge](https://img.shields.io/badge/CakeResume-%15A96A.svg?&style=for-square&logo=coursera&logoColor=white)](https://gapur-kassym.medium.com/)
 
