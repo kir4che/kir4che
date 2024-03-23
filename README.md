@@ -1,11 +1,9 @@
 ### <samp>&gt; Hi, I'm <a href="https://kir4che.github.io/" target="_blank">Molly Su (kir4che) </a>🦫</samp>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=Linkedin&labelColor=white&logoColor=white)](https://www.linkedin.com/in/kir4che/)
-
-
-[![Website Badge](https://img.shields.io/badge/Website-FF9CB6?style=flat-square&logo=githubpages&labelColor=white&logoColor=white)](https://kir4che.github.io/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&labelColor=white&logoColor=white)](https://www.instagram.com/kir4che/)
-[![CakeResume Badge](https://img.shields.io/badge/CakeResume-15A96A?&style=for-square&logo=coursera&labelColor=white&logoColor=white)](https://gapur-kassym.medium.com/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=Linkedin&color=white&logoColor=white)](https://www.linkedin.com/in/kir4che/)
+[![Website Badge](https://img.shields.io/badge/Website-FF9CB6?style=flat-square&logo=githubpages&color=white&logoColor=white)](https://kir4che.github.io/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&color=white&logoColor=white)](https://www.instagram.com/kir4che/)
+[![CakeResume Badge](https://img.shields.io/badge/CakeResume-15A96A?&style=for-square&logo=coursera&color=white&logoColor=white)](https://gapur-kassym.medium.com/)
 
 📈 **My GitHub Stats:**
 
