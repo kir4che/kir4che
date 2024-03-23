@@ -3,9 +3,7 @@
 
 [![Website Badge](https://img.shields.io/badge/Website-EF768B?style=flat-square&logo=githubpages&logoColor=white)](https://kir4che.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kir4che/)
-
 [![CakeResume Badge](https://img.shields.io/badge/CakeResume-15A96A?&style=for-square&logo=coursera&logoColor=white)](https://gapur-kassym.medium.com/)
-
 [![Instagram Badge](https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kir4che/)
 
 I'm a Front-End Developer intern based in Taipei, Taiwan.
