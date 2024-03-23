@@ -18,8 +18,6 @@ I'm a Front-End Developer intern based in Taipei, Taiwan.
 - 💖 Interests: T1 ZOFGK, foodie, 🐱CATS, wanderlusting, learning German🇩🇪.
 - 💌 How to reach me: mollydcxxiii@gmail.com;
 
-<br/>
-
 ### 📈 My GitHub Stats 
 
 <p>
