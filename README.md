@@ -20,11 +20,11 @@ I'm a Front-End Developer intern based in Taipei, Taiwan.
 
 ### 📈 My GitHub Stats 
 
-<p>
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kir4che&show_icons=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kir4che&show_icons=true&layout=compact&langs_count=8"/>
-</p>
+</div>
 
 ### 🫶🏻 Support Me:     
 
-<p><a href="https://www.buymeacoffee.com/kir4che"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kir4che" /></a></p>
+<div><a href="https://www.buymeacoffee.com/kir4che"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kir4che" /></a></div>
