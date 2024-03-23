@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kir4che/)
 [![Website Badge](https://img.shields.io/badge/Website-FF9CB6?style=flat-square&logo=website&logoColor=white)](https://kir4che.github.io/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kir4che/)
-[![CakeResume Badge](https://img.shields.io/badge/CakeResume-%12A564.svg?&style=for-square&logo=cake&logoColor=white)](https://gapur-kassym.medium.com/)
+[![CakeResume Badge](https://img.shields.io/badge/CakeResume-%15A96A.svg?&style=for-square&logo=c&logoColor=white)](https://gapur-kassym.medium.com/)
 
 📈 **My GitHub Stats:**
 
