@@ -16,15 +16,15 @@ I'm a Front-End Developer intern based in Taipei, Taiwan.
   <li>🏫 A Information & Finance Management undergraduate at National Taipei University of Technology, Taiwan.</li>
   <li>💖 Interests: T1 ZOFGK, foodie, 🐱CATS, wanderlusting, learning German🇩🇪.</li>
   <li>💌 How to reach me: mollydcxxiii@gmail.com</li>
-</div>
+</ul>
 
 ### 📈 My GitHub Stats 
 
-<div>
+<p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kir4che&show_icons=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kir4che&show_icons=true&layout=compact&langs_count=8"/>
-</div>
+</p>
 
 ### 🫶🏻 Support Me:     
 
-<div><a href="https://www.buymeacoffee.com/kir4che"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kir4che" /></a></div>
+<p><a href="https://www.buymeacoffee.com/kir4che"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kir4che" /></a></p>
