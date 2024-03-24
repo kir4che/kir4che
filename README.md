@@ -6,7 +6,12 @@
 [![CakeResume Badge](https://img.shields.io/badge/CakeResume-15A96A?&style=for-square&logo=coursera&logoColor=white)](https://www.cakeresume.com/me/kir4che)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kir4che/)
 
-I'm Molly Su, a front-end developer intern based in Taiwan, currently studying at National Taipei University of Technology, majoring in Information & Finance Management. 
+<ul>
+  <li>👩🏻‍💻 A Front-End Developer intern based in Taiwan.</li>
+  <li>🏫 Studying at National Taipei University of Technology, majoring in Information & Finance Management.</li>
+  <li>🦫 MBTI: ISTJ</li>      
+  <li>💖 Interests: T1 ZOFGK, foodie, 🐱CATS, wanderlusting, learning German🇩🇪.</li>
+</ul>
 
 ## Languages
 
