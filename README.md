@@ -9,8 +9,9 @@
 <ul>
   <li>👩🏻‍💻 A Front-End Developer intern based in Taiwan.</li>
   <li>🏫 Studying at National Taipei University of Technology, majoring in Information & Finance Management.</li>
+  <li>💻 Interested in front-end and app development.</li>
   <li>🦫 MBTI: ISTJ</li>
-  <li>💖 Interests: T1 ZOFGK, foodie, 🐱CATS, wanderlusting, learning German🇩🇪.</li>
+  <li>💖 Interests: T1 ZOFGK, foodie, CATS🐱, wanderlusting, learning 🇩🇪German.</li>
 </ul>
 
 ## Languages
@@ -43,4 +44,4 @@
 
 ### 💌 How to reach me:
 
-- email: mollydcxxiii@gmail.com
+- email: mollydcxxiii@gmail.com (੭˙ ˘ ˙)੭
