@@ -8,13 +8,6 @@
 
 I'm Molly Su, a front-end developer intern based in Taiwan, currently studying at National Taipei University of Technology, majoring in Information & Finance Management. 
 
-## 📈 My GitHub Stats 
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kir4che&show_icons=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kir4che&show_icons=true&layout=compact&langs_count=8"/>
-</p>
-
 ## Languages
 
 ![](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,6 +28,13 @@ I'm Molly Su, a front-end developer intern based in Taiwan, currently studying a
 ![](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
 ![](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/-Mongo%20DB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 📈 My GitHub Stats 
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kir4che&show_icons=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kir4che&show_icons=true&layout=compact&langs_count=8"/>
+</p>
 
 ### 💌 How to reach me:
 
