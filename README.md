@@ -9,7 +9,7 @@
 <ul>
   <li>👩🏻‍💻 A Front-End Developer intern based in Taiwan.</li>
   <li>🏫 Studying at National Taipei University of Technology, majoring in Information & Finance Management.</li>
-  <li>🦫 MBTI: ISTJ</li>      
+  <li>🦫 MBTI: ISTJ</li>
   <li>💖 Interests: T1 ZOFGK, foodie, 🐱CATS, wanderlusting, learning German🇩🇪.</li>
 </ul>
 
