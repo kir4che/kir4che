@@ -1,4 +1,4 @@
-## &gt; Hi, I'm Molly Su 🦫
+## &gt; Hi, I'm Molly Su 🍒
 
 
 [![Website Badge](https://img.shields.io/badge/Website-EF768B?style=flat-square&logo=githubpages&logoColor=white)](https://ki2sch3.github.io/)
