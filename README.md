@@ -1,4 +1,4 @@
-## &gt; Hi, I'm <a href="https://ki2sch3.github.io/" target="_blank">Molly Su</a>🦫
+## &gt; Hi, I'm Molly Su</a>🦫
 
 
 [![Website Badge](https://img.shields.io/badge/Website-EF768B?style=flat-square&logo=githubpages&logoColor=white)](https://ki2sch3.github.io/)
