@@ -1,9 +1,9 @@
 ## &gt; Hi, I'm Molly Su 🍒
 
 
-[![Website Badge](https://img.shields.io/badge/Website-EF768B?style=flat-square&logo=githubpages&logoColor=white)](https://ki2sch3.github.io/)
+[![Website Badge](https://img.shields.io/badge/Website-EF768B?style=flat-square&logo=githubpages&logoColor=white)](https://kir4che.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mollysu/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ki2sch3/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-DD2A7B?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kir4che/)
 
 <ul>
   <li>👩🏻‍💻 A Front-End Developer intern based in Taiwan.</li>
