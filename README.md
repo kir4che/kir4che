@@ -39,8 +39,6 @@
 ![](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ![](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
-![](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📈 My GitHub Stats 
 
