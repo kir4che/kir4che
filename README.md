@@ -18,7 +18,7 @@
 ## About Me
 
 <ul>
-  <li>👩🏻‍💻 A Front-End Developer intern based in Taiwan.</li>
+  <li>👩🏻‍💻 A Front-End Developer based in Taiwan.</li>
   <li>🏫 Graduated from National Taipei University of Technology, Information & Finance Management.</li>
   <li>💻 Interested in front-end and app development.</li>
   <li>🦫 MBTI: ISTJ</li>
