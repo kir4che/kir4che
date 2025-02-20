@@ -2,13 +2,6 @@
    <h1>Hi, I'm Molly 🍒</h1>
 </div>
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/mollysu/"><img height="30" src="https://img.icons8.com/pulsar-color/48/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/kir4che/"><img height="30" src="https://img.icons8.com/pulsar-color/48/instagram-new.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://kir4che.com/"><img height="30" src="https://img.icons8.com/pulsar-color/48/blog.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.buymeacoffee.com/kir4che"><img height="30" src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/56/external-buy-me-a-coffee-help-creators-receive-support-from-their-audience-logo-fresh-tal-revivo.png?raw=true"></a>&nbsp;&nbsp;
-</p>
-
 <div align="center">
 <h3>👩🏻‍💻 Molly Su | 💻 Front-End Developer | 🏠 New Taipei, Taiwan</h3>
 </div>
@@ -17,12 +10,14 @@
 
 ## About Me
 
+<a href="https://kir4che.com/">My Blog -`♡´-</a>
+
 <ul>
   <li>👩🏻‍💻 A Front-End Developer based in Taiwan.</li>
   <li>🏫 Graduated from National Taipei University of Technology, Information & Finance Management.</li>
   <li>💻 Interested in front-end and app development.</li>
   <li>🦫 MBTI: ISTJ</li>
-  <li>💖 T1 LOL, Foodie, CATS, Wanderlusting, Learning German.</li>
+  <li>💖 Interests: LCK T1, Crochet, Cats, Gaming, and Food.</li>
 </ul>
 
 ## Languages and Tools...
