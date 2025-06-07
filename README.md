@@ -14,10 +14,10 @@
 
 <ul>
   <li>👩🏻‍💻 A Front-End Developer based in Taiwan.</li>
-  <li>🏫 Graduated from National Taipei University of Technology, Information & Finance Management.</li>
   <li>💻 Interested in front-end and app development.</li>
-  <li>🦫 MBTI: ISTJ</li>
-  <li>💖 Interests: LCK T1, Crochet, Cats, Gaming, and Food.</li>
+  <li>🦫 MBTI is a practical ISTJ (Logistician)</li>
+  <li>💖 Love playing video games like TFT, SF6, and otome games — also love watching LoL matches!</li>
+  <li>🧶 Enjoys crocheting, currently working on the challenge of making a vest~</li>
 </ul>
 
 ## Languages and Tools...
