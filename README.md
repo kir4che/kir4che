@@ -32,7 +32,9 @@
 ![](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
+![](https://img.shields.io/badge/-NodeJS-6cc24a?style=for-the-badge&logo=NodeJS&logoColor=white)
 ![](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express)
+![](https://img.shields.io/badge/-MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📈 My GitHub Stats 
 
