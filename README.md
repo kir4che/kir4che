@@ -36,6 +36,12 @@
 ![](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/-Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
 
+## 📊 GitHub Activity
+
+<picture>
+  <img src="./github-metrics.svg" alt="GitHub activity metrics: language usage, yearly contribution calendar, and coding habits" width="100%">
+</picture>
+
 ## 💌 How to reach me:
 
 - mollydcxxiii@gmail.com (੭˙ ˘ ˙)੭
