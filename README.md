@@ -39,7 +39,7 @@
 ## 📊 GitHub Activity
 
 <picture>
-  <img src="./github-metrics.svg" alt="GitHub activity metrics: language usage, yearly contribution calendar, and coding habits" width="100%">
+  <img src="./github-metrics.svg" alt="GitHub activity metrics: language usage, yearly contribution calendar, and coding habits" width="45%">
 </picture>
 
 ## 💌 How to reach me:
